@@ -8,7 +8,6 @@
 ## Featured work
 - CleanHub: React/Vite/Tailwind service browsing and booking for laundry, vehicle, and shoe care; service advisor; booking history. Source and live URLs verified from its project README.
 - VibeWave Music: React/Vite/Node/Express mood-based music discovery using a local catalog and an experimental voice-emotion model; local favorites with optional server sync. It is not a streaming service. Source and Vercel URLs verified.
-- Student Record Management System: C++ console app for adding, searching, and deleting student records with file handling; listed in the existing portfolio with its source repository.
 
 ## Product constraints
 - Static HTML/CSS/JavaScript to preserve the existing no-build setup.

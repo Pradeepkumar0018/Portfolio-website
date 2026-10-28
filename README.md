@@ -10,7 +10,6 @@ This portfolio uses plain HTML, CSS, and JavaScript, so no package install or bu
 
 - **CleanHub:** React/Vite/Tailwind service discovery and booking for laundry, vehicle, and shoe care. Includes a service advisor and booking history.
 - **VibeWave Music:** React/Vite/Node/Express mood-based music discovery with a local catalog, experimental voice-emotion estimate, and favorites. It is not a music streaming service; playback opens Spotify when no preview is available.
-- **Student Record Management System:** C++ console application for adding, searching, and deleting student records using file handling.
 
 ## Deploy to Vercel
 
