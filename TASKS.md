@@ -1,8 +1,9 @@
 # Tasks
 
-- [x] Inspect the old portfolio files and project source documentation.
-- [x] Design and implement the portfolio page and responsive styles.
-- [x] Add functional mobile navigation and accurate project links/descriptions.
-- [ ] Validate files and serve locally for a browser check.
-- [ ] Copy the reviewed result into `D:\Proj\portfolio-website` after destination write access is granted.
-- [ ] Confirm actual portfolio Git remote and Vercel project before push/deploy.
+- [x] Inspect the existing portfolio folder, project sources, GitHub repository, and branch history.
+- [x] Implement the responsive portfolio with three verified projects, contact details, and working mobile navigation.
+- [x] Validate HTML parsing, in-page anchors, asset references, JavaScript syntax, and Git whitespace.
+- [x] Commit and push the redesign to `main` (`ac1b7a9`).
+- [ ] Authenticate the Vercel CLI through the user's one-time device approval.
+- [ ] Link or create the appropriate Vercel project, deploy the static site, and verify its production URL.
+- [ ] Visually inspect the live page at desktop and mobile sizes.
