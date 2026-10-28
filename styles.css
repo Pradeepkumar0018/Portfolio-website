@@ -503,6 +503,44 @@ button{
 .project-tags span{
   font-size:9px
 }
+.project-build-notes{
+  width:100%;
+  border-top:1px solid #293632;
+  padding-top:13px;
+  margin:0 0 19px
+}
+.project-build-notes h4{
+  margin:0 0 8px;
+  color:#c8f169;
+  font-size:9px;
+  font-weight:650;
+  letter-spacing:.12em;
+  text-transform:uppercase
+}
+.project-build-notes ul{
+  display:grid;
+  gap:6px;
+  margin:0;
+  padding:0;
+  list-style:none
+}
+.project-build-notes li{
+  position:relative;
+  padding-left:13px;
+  color:#aab5aa;
+  font-size:10px;
+  line-height:1.55
+}
+.project-build-notes li:before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:.62em;
+  width:4px;
+  height:4px;
+  border-radius:50%;
+  background:#a8e2c4
+}
 .project-links{
   display:flex;
   gap:22px;
