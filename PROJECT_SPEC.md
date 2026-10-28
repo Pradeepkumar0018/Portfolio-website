@@ -13,4 +13,4 @@
 - Static HTML/CSS/JavaScript to preserve the existing no-build setup.
 - Responsive dark visual system with restrained lime/mint accents.
 - Functional mobile menu, working in-page navigation, accessible focus/skip link, reduced-motion support, and verified external links.
-- No fabricated email, resume, screenshots, certificates, or claims. The public email and phone displayed on the previous portfolio are retained.
+- Use genuine screenshots captured from the deployed CleanHub and VibeWave sites. Do not invent contact details, resume files, certificates, or project claims. The public email and phone displayed on the previous portfolio are retained.

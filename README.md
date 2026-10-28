@@ -22,4 +22,4 @@ Connect this GitHub repository to Vercel. Select the **Other** framework preset,
 
 ## Implementation notes
 
-The project visuals are decorative CSS illustrations, not screenshots. MERN backend technologies are presented as developing skills, not as professional experience or mastery. The portfolio is static and needs no server or database.
+Project cards use genuine screenshots captured from the live CleanHub and VibeWave Music websites. MERN backend technologies are presented as developing skills, not as professional experience or mastery. The portfolio is static and needs no server or database.
