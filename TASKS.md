@@ -4,6 +4,6 @@
 - [x] Implement the responsive portfolio with three verified projects, contact details, and working mobile navigation.
 - [x] Validate HTML parsing, in-page anchors, asset references, JavaScript syntax, and Git whitespace.
 - [x] Commit and push the redesign to `main` (`ac1b7a9`).
-- [ ] Authenticate the Vercel CLI through the user's one-time device approval.
-- [ ] Link or create the appropriate Vercel project, deploy the static site, and verify its production URL.
+- [x] Create Vercel project `portfolio-website` in the existing Hobby team and connect the GitHub repository.
+- [x] Deploy the static site; production page, stylesheet, and script returned HTTP 200.
 - [ ] Visually inspect the live page at desktop and mobile sizes.
